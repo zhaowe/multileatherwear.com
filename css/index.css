@@ -1,0 +1,128 @@
+/* CSS Document */
+
+body
+{
+    background-image: url(../images/bk.gif);
+}
+.product
+{
+    border: 1 solid #000000;
+    margin: 1;
+}
+tr.pic
+{
+    background-color: #B0131A;
+    text-align: center;
+}
+td.desc
+{
+    width: 265;
+}
+a
+{
+    color: #DD6D71;
+    text-decoration: inherit;
+}
+.tab
+{
+    text-align: center;
+    font-size: 15;
+    font-weight: bold;
+    font-family: "Arial" , "Helvetica" , "sans-serif";
+    margin: 10;
+}
+a.unactivetab
+{
+    margin: 5;
+    padding: 5;
+    vertical-align: middle;
+    text-decoration: none;
+    height: 30;
+}
+a.unactivetab:hover
+{
+    color: #B4B424;
+    background-color: #545454;
+}
+span.currenttab
+{
+    margin: 5;
+    vertical-align: middle;
+    padding: 5;
+    background-color: #373737;
+    height: 30;
+}
+td.currenttab
+{
+    background-color: #373737;
+}
+
+a.hot1:link
+{
+    color: #C9A4A5;
+    text-decoration: none;
+}
+a.hot1:visited
+{
+    color: #C9A4A5;
+    text-decoration: none;
+}
+a.hot1:active
+{
+    color: #C9A4A5;
+    text-decoration: none;
+}
+a.hot1:hover
+{
+    color: #C9A4A5;
+    text-decoration: underline;
+}
+.text
+{
+    font-family: "Times New Roman" , "serif";
+    font-size: 16px;
+    color: #C9A4A5;
+    background-color: #B0131A;
+}
+input
+{
+    border: 0px solid #993333;
+    background-color: #cccccc;
+}
+textarea
+{
+    border: 1px solid #993333;
+    background-color: #cccccc;
+    border: 1px solid #8D6061;
+}
+.bor_bottom
+{
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #CCCCCC;
+}
+
+.body-text
+{
+    font-family: "Arial" , "Helvetica" , "sans-serif";
+    font-size: 12px;
+    line-height: 18px;
+    color: #C9A4A5;
+    text-indent: 20pt;
+    text-align: justify;
+}
+.text2
+{
+    font-family: "Arial" , "Helvetica" , "sans-serif";
+    font-size: 14px;
+    font-weight: bold;
+    color: #C9A4A5;
+    text-decoration: underline;
+}
+.text3
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #C9A4A5;
+}

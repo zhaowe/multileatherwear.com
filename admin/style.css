@@ -1,0 +1,76 @@
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+BODY {
+	FONT-SIZE: 9pt; FONT-FAMILY: "Tahoma,宋体"
+}
+TD {
+	FONT-SIZE: 9pt; FONT-FAMILY: "Tahoma,宋体"
+}
+P {
+	FONT-SIZE: 9pt; FONT-FAMILY: "Tahoma,宋体"
+}
+BR {
+	FONT-SIZE: 9pt; FONT-FAMILY: "Tahoma,宋体"
+}
+DIV {
+	FONT-SIZE: 9pt; FONT-FAMILY: "Tahoma,宋体"
+}
+FORM {
+	FONT-SIZE: 9pt; FONT-FAMILY: "Tahoma,宋体"
+}
+OPTION {
+	FONT-SIZE: 9pt; FONT-FAMILY: "Tahoma,宋体"
+}
+INPUT {
+	FONT-SIZE: 9pt; FONT-FAMILY: "Tahoma,宋体"
+}
+TEXTAREA {
+	FONT-SIZE: 9pt; ont-family: "Tahoma,宋体"
+}
+SELECT {
+	FONT-SIZE: 9pt; FONT-FAMILY: "Tahoma,宋体"
+}
+.buttonface {
+	BORDER-RIGHT: 1px solid #336699;
+	BORDER-TOP: 1px solid #CCCCCC;
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 9pt;
+	BACKGROUND: #6699CC;
+	BORDER-LEFT: 1px solid #CCCCCC;
+	COLOR: #ffffff;
+	LINE-HEIGHT: normal;
+	BORDER-BOTTOM: 1px solid #336699;
+	FONT-STYLE: normal;
+	HEIGHT: 20px;
+	FONT-VARIANT: normal;
+	width: 80px;
+
+}
+.lineInput {
+	BORDER-TOP-WIDTH: 0px; FONT-WEIGHT: normal; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 9pt; BACKGROUND: #ffffff; BORDER-BOTTOM-WIDTH: 1px; BORDER-BOTTOM-COLOR: #000000; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; HEIGHT: 18px; BORDER-RIGHT-WIDTH: 0px; FONT-VARIANT: normal; solid: 
+}
+.input_search {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; FONT-SIZE: 9pt; BORDER-LEFT: 0px; WIDTH: 113px; COLOR: #40b052; BORDER-BOTTOM: 0px
+}
+.input_search_bottom {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; WIDTH: 62px; BORDER-BOTTOM: 0px; HEIGHT: 32px
+}
+.input_search_bottoms {
+	BORDER-RIGHT: #f9d576 1px solid; BORDER-TOP: #f9d576 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 9pt; BACKGROUND: #fff0c9; BORDER-LEFT: #f9d576 1px solid; COLOR: #b370b4; LINE-HEIGHT: normal; BORDER-BOTTOM: #f9d576 1px solid; FONT-STYLE: normal; HEIGHT: 19px; FONT-VARIANT: normal
+}
+.input_submit_bottom {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; WIDTH: 40px; BORDER-BOTTOM: 0px; HEIGHT: 40px
+}
+.INPUT_co {
+	BORDER-TOP-WIDTH: 1px; PADDING-RIGHT: 1px; PADDING-LEFT: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 9pt; BORDER-LEFT-COLOR: #cccccc; BORDER-BOTTOM-WIDTH: 1px; BORDER-BOTTOM-COLOR: #cccccc; PADDING-BOTTOM: 1px; BORDER-TOP-COLOR: #cccccc; PADDING-TOP: 1px; HEIGHT: 20px; BORDER-RIGHT-WIDTH: 1px; BORDER-RIGHT-COLOR: #cccccc
+}
+li {
+	line-height: 180%;
+}
+a:hover {
+	text-decoration: underline;
+}

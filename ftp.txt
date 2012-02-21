@@ -1,0 +1,10 @@
+www.godaddy.com, 
+Username: 4953080
+Password: 868688
+右上角： My Account 按键之下有Web Hosting 
+之后左上进入FTP File Manager 
+
+ftp server: 72.167.131.146
+atzou At868688
+
+www.multileatherwear.com
